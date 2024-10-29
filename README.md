@@ -9,9 +9,12 @@ No tengas miedo de hacer un clone 👻 (¡está bien, prometo que mis repos no m
 
 
 ## 🚀 About Me
-	•	🧩 Apasionado por resolver problemas: Mi enfoque está en desarrollar soluciones que hagan la vida más fácil (¡y el código más limpio!). Desde aplicaciones que simplifican el día a día hasta sistemas complejos que conecten el mundo 🌐.
-	•	💡 Siempre aprendiendo: Actualmente estoy explorando NestJS, Next, y perfeccionando mis habilidades en desarrollo de software. Mi misión es nunca dejar de crecer y aportar algo nuevo con cada línea de código.
-	•	🛠️ Herramientas favoritas: Me siento en casa con Flutter, Python, y últimamente, Kotlin ha sido mi compañero de aventuras para apps móviles.
-	•	🎯 Objetivo: Crear un espacio donde el código fluya, los errores se enfrenten con valentía, y las ideas innovadoras cobren vida. ¡Mis repos están abiertos para aprender juntos y recibir feedback!
+🧩 Apasionado por resolver problemas: Mi enfoque está en desarrollar soluciones que hagan la vida más fácil (¡y el código más limpio!). Desde aplicaciones que simplifican el día a día hasta sistemas complejos que conecten el mundo 🌐.
+
+💡 Siempre aprendiendo: Actualmente estoy explorando NestJS, Next, y perfeccionando mis habilidades en desarrollo de software. Mi misión es nunca dejar de crecer y aportar algo nuevo con cada línea de código.
+
+🛠️ Herramientas favoritas: Me siento en casa con Flutter, Python, y últimamente, Kotlin ha sido mi compañero de aventuras para apps móviles.
+
+🎯 Objetivo: Crear un espacio donde el código fluya, los errores se enfrenten con valentía, y las ideas innovadoras cobren vida. ¡Mis repos están abiertos para aprender juntos y recibir feedback!
 
     
