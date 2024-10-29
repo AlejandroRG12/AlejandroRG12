@@ -8,6 +8,10 @@
 No tengas miedo de hacer un clone 👻 (¡está bien, prometo que mis repos no muerden!)
 
 
+
+
+
+
 ## 🚀 About Me
 🧩 Apasionado por resolver problemas: Mi enfoque está en desarrollar soluciones que hagan la vida más fácil (¡y el código más limpio!). Desde aplicaciones que simplifican el día a día hasta sistemas complejos que conecten el mundo 🌐.
 
